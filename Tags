@@ -5,7 +5,20 @@
     обов'язкові атрибути 
     необов'язкові атрибути
 
+<!--...-->
+    Коментарій. П.
+    немає
+    немає
+    <!-- Ось посилання, яке перенаправляє на сторінку "https://www.example.com" -->
+    <a href="https://www.example.com">Посилання на приклад</a>
+
 <a>
     Створює посилання. П.
     href; 
-    target, rel, title, download, href lang, media, type, 
+    target, rel, title, download, href lang, media, type...
+    <a href="https://www.example.com">Посилання на приклад</a>
+    <a href="https://www.example.com" target="_blank">Відкрити в новій вкладці</a>
+    <a href="https://www.example.com" rel="nofollow">Посилання на приклад</a>
+    <a href="https://www.example.com" title="Перейти на сайт прикладу">Посилання на приклад</a>
+    <a href="image.jpg" download>Завантажити зображення</a>
+
